@@ -4,4 +4,4 @@
 ## To-do
 ### Get Tweets From Twitter Timeline using Tweepy
 ### Analyse Tweets using TextBlob 
-### Print Precentage of Polarity and Subjectivity 
+### Print Percentage of Polarity and Subjectivity 
